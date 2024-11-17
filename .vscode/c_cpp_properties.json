@@ -4,7 +4,7 @@
             "name": "UART-LIN",
             "includePath": [
                 "C:\\Keil_v5\\C51\\INC",
-                "c:\\Users\\shuhan\\Downloads\\50-UART"
+                "c:\\Users\\shuhan\\Downloads\\UART-PhotoRes"
             ],
             "defines": [
                 "__C51__",
